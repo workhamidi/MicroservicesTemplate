@@ -1,0 +1,18 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "workhamidi",
+  "classifications": [
+    "Microservices Architecture"
+  ],
+  "name": "Microservices Architecture Solution Monorepo",
+  "description": "A Microservices Architecture Solution Template with ASP.NET Core.",
+  "identity": "Microservices.Architecture.Solution.Monorepo",
+  "groupIdentity": "Microservices.Architecture.Solution",
+  "shortName": "MSArc",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "MicroservicesTemplate",
+  "preferNameDirectory": true
+}
